@@ -1,0 +1,14 @@
+button{
+    background-color: blue;
+    width: 150px;
+    height: 55px;
+}
+div{
+    margin-top: 200px;
+    margin-left: 500px;
+}
+input{
+    width: 300px;
+    height: 50px;
+    padding-left: 50px;
+}
